@@ -5,7 +5,6 @@ Welcome to my fully animated game project built in C, specifically designed for 
 Ensure Docker Desktop is installed and running on your system.
 
 Clone this repository to your local machine: git clone https://github.com/mshowkat6/tortoise-and-the-hare.git
-                                             cd animated-game-project
                                              
 Open the project in Visual Studio Code and press cmd+shift+B.
 
@@ -19,6 +18,6 @@ Use mGBA to open and run the built .gba file.
 5. Avoid turtles or throw spinning carrots by pressing A to defeat them.
 
 ## Author
-Maymunah Showkat
+Maymunah Showkat - https://github.com/mshowkat6
 
 
